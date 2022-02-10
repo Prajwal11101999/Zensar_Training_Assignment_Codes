@@ -9,6 +9,7 @@ namespace Demo_Assignment_Collections_Q1
 
     class Product
     {
+        
         Dictionary<string, Double> ProductInfo = new Dictionary<string, double>();
 
         public void GetDictionary()
@@ -21,13 +22,13 @@ namespace Demo_Assignment_Collections_Q1
         }
         public void SortDictionary()
         {
-            Console.WriteLine("Sorted by Value");
-            Console.WriteLine("=============");
+            Console.WriteLine("**************************************Sorted by Value*******************************************");
             foreach (KeyValuePair<string, Double> Price in ProductInfo.OrderBy(key => key.Value))
             {
                 Console.WriteLine("Key: {0}, Value: {1}", Price.Key, Price.Value);
             }
         }
+        
     }
 
     class Assignment_Collection_Q2
