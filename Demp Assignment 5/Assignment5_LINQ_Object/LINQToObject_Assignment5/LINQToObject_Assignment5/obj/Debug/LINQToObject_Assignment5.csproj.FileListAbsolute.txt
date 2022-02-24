@@ -1,0 +1,7 @@
+D:\Zensar_Jan\Day 6\Demp Assignment 5\Assignment5_LINQ_Object\LINQToObject_Assignment5\LINQToObject_Assignment5\bin\Debug\LINQToObject_Assignment5.exe.config
+D:\Zensar_Jan\Day 6\Demp Assignment 5\Assignment5_LINQ_Object\LINQToObject_Assignment5\LINQToObject_Assignment5\bin\Debug\LINQToObject_Assignment5.exe
+D:\Zensar_Jan\Day 6\Demp Assignment 5\Assignment5_LINQ_Object\LINQToObject_Assignment5\LINQToObject_Assignment5\bin\Debug\LINQToObject_Assignment5.pdb
+D:\Zensar_Jan\Day 6\Demp Assignment 5\Assignment5_LINQ_Object\LINQToObject_Assignment5\LINQToObject_Assignment5\obj\Debug\LINQToObject_Assignment5.csproj.AssemblyReference.cache
+D:\Zensar_Jan\Day 6\Demp Assignment 5\Assignment5_LINQ_Object\LINQToObject_Assignment5\LINQToObject_Assignment5\obj\Debug\LINQToObject_Assignment5.csproj.CoreCompileInputs.cache
+D:\Zensar_Jan\Day 6\Demp Assignment 5\Assignment5_LINQ_Object\LINQToObject_Assignment5\LINQToObject_Assignment5\obj\Debug\LINQToObject_Assignment5.exe
+D:\Zensar_Jan\Day 6\Demp Assignment 5\Assignment5_LINQ_Object\LINQToObject_Assignment5\LINQToObject_Assignment5\obj\Debug\LINQToObject_Assignment5.pdb
