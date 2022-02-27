@@ -5,3 +5,10 @@ D:\Zensar_Jan\Day 6\Demo CaseStudy 1\Case Study Plan 1\Case_Study_Plan_1\Case_St
 D:\Zensar_Jan\Day 6\Demo CaseStudy 1\Case Study Plan 1\Case_Study_Plan_1\Case_Study_Plan_1\obj\Debug\Case_Study_Plan_1.csproj.CoreCompileInputs.cache
 D:\Zensar_Jan\Day 6\Demo CaseStudy 1\Case Study Plan 1\Case_Study_Plan_1\Case_Study_Plan_1\obj\Debug\Case_Study_Plan_1.exe
 D:\Zensar_Jan\Day 6\Demo CaseStudy 1\Case Study Plan 1\Case_Study_Plan_1\Case_Study_Plan_1\obj\Debug\Case_Study_Plan_1.pdb
+D:\Zensar_Jan\Day 6\Demo CaseStudy\Case Study Plan 1\Case_Study_Plan_1\Case_Study_Plan_1\obj\Debug\Case_Study_Plan_1.csproj.AssemblyReference.cache
+D:\Zensar_Jan\Day 6\Demo CaseStudy\Case Study Plan 1\Case_Study_Plan_1\Case_Study_Plan_1\obj\Debug\Case_Study_Plan_1.csproj.CoreCompileInputs.cache
+D:\Zensar_Jan\Day 6\Demo CaseStudy\Case Study Plan 1\Case_Study_Plan_1\Case_Study_Plan_1\obj\Debug\Case_Study_Plan_1.exe
+D:\Zensar_Jan\Day 6\Demo CaseStudy\Case Study Plan 1\Case_Study_Plan_1\Case_Study_Plan_1\obj\Debug\Case_Study_Plan_1.pdb
+D:\Zensar_Jan\Day 6\Demo CaseStudy\Case Study Plan 1\Case_Study_Plan_1\Case_Study_Plan_1\bin\Debug\Case_Study_Plan_1.exe.config
+D:\Zensar_Jan\Day 6\Demo CaseStudy\Case Study Plan 1\Case_Study_Plan_1\Case_Study_Plan_1\bin\Debug\Case_Study_Plan_1.exe
+D:\Zensar_Jan\Day 6\Demo CaseStudy\Case Study Plan 1\Case_Study_Plan_1\Case_Study_Plan_1\bin\Debug\Case_Study_Plan_1.pdb
