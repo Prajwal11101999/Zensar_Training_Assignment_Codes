@@ -177,8 +177,8 @@ namespace Case_Study_Project_Enrollment
             do
             {
                 Console.WriteLine("Welcome to Admin Screen : ");
-                Console.WriteLine("Do you want to see : \n1. All Student Info List \n2. All Courses Info List \n3. Add New Course \n4. Delete Existing Course \n5. Update Existing Course \n6. Enrollment List");
-                Console.WriteLine("Enter your choice ( 1 or 2 or 3 or 4 or 5 or 6) : ");
+                Console.WriteLine("Do you want to see : \n1. All Student Info List \n2. All Courses Info List \n3. New Student Registeration \n4. Update Student DateOfBirth \n5. Delete Existing Student Info \n6. Add New Course \n7. Delete Existing Course \n8. Update Existing Course \n9. Enrollment List");
+                Console.WriteLine("Enter your choice ( 1 or 2 or 3 or 4 or 5 or 6 or 7 or 8 or 9) : ");
                 int op = Convert.ToInt32(Console.ReadLine());
                 switch (op)
                 {
@@ -189,15 +189,24 @@ namespace Case_Study_Project_Enrollment
                         showAllCoursesScreen();
                         break;
                     case 3:
-                        introduceNewCourseScreen();
+                        showStudentRegistrationScreen();
                         break;
                     case 4:
-                        AppEngine.DeleteCourse();
+                        AppEngine.UpdateStudInfo();
                         break;
                     case 5:
-                        AppEngine.UpdateCourseInfo();
+                        AppEngine.DeleteStudent();
                         break;
                     case 6:
+                        introduceNewCourseScreen();
+                        break;
+                    case 7:
+                        AppEngine.DeleteCourse();
+                        break;
+                    case 8:
+                        AppEngine.UpdateCourseInfo();
+                        break;
+                    case 9:
                         AppEngine.ListOfEnrollment(enroll.EnrollList);
                         break;
                 }
@@ -252,8 +261,8 @@ namespace Case_Study_Project_Enrollment
             do
             {
                 Console.WriteLine("Welcome to Student Screen : ");
-                Console.WriteLine("Do you want to see : \n1. Student Info \n2. New Registration \n3. All Courses Available \n4. Change Date of Birth \n5. Delete Student Info \n6. Enroll in New Course");
-                Console.WriteLine("Enter your choice ( 1 or 2 or 3 or 4 or 5 or 6) : ");
+                Console.WriteLine("Do you want to see : \n1. Student Info \n2. All Courses Available \n3. Enroll in New Course");
+                Console.WriteLine("Enter your choice ( 1 or 2 or 3) : ");
                 int op = Convert.ToInt32(Console.ReadLine());
 
                 switch (op)
@@ -264,18 +273,9 @@ namespace Case_Study_Project_Enrollment
                         //AppEngine.GetPerCourseDetails();
                         break;
                     case 2:
-                        showStudentRegistrationScreen();
-                        break;
-                    case 3:
                         showAllCoursesScreen();
                         break;
-                    case 4:
-                        AppEngine.UpdateStudInfo();
-                        break;
-                    case 5:
-                        AppEngine.DeleteStudent();
-                        break;
-                    case 6:
+                    case 3:
                         Enrollment();
                         break;
                 }
