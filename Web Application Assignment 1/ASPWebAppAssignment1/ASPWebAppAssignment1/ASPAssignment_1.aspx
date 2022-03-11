@@ -49,10 +49,10 @@
 <body>
     <form id="form1" runat="server" class="auto-style11">
         <div class="auto-style8">
-            Insert Your Details</div>
+            Insert Your Details : </div>
         <table class="auto-style1">
             <tr>
-                <td class="auto-style9">Name</td>
+                <td class="auto-style9">First Name : </td>
                 <td class="auto-style10">
                     <asp:TextBox ID="nm" runat="server"  Width="181px" Height="21px"></asp:TextBox>
                     <asp:RequiredFieldValidator ID="RequiredFieldValidator1" Display="None" runat="server" ControlToValidate="nm" ErrorMessage="Required Name" ForeColor="Red"></asp:RequiredFieldValidator>
@@ -61,7 +61,7 @@
             
             </tr>
             <tr>
-                <td class="auto-style2">Family Name</td>
+                <td class="auto-style2">Last Name : </td>
                 <td class="auto-style4">
                     <asp:TextBox ID="fnm" runat="server"  Width="180px" Height="21px"></asp:TextBox>
                     <asp:RequiredFieldValidator ID="RequiredFieldValidator2" Display="None" runat="server" ControlToValidate="fnm" ErrorMessage="Required FullName" ForeColor="Red"></asp:RequiredFieldValidator>
@@ -72,7 +72,7 @@
                     &nbsp;</td>
             </tr>
             <tr>
-                <td class="auto-style2">Adress</td>
+                <td class="auto-style2">Adress : </td>
                 <td class="auto-style4">
                     <asp:TextBox ID="adrs" runat="server" Width="180px"></asp:TextBox>
                     <asp:RequiredFieldValidator ID="RequiredFieldValidator3" Display="None" runat="server" ControlToValidate="adrs" ErrorMessage="Required Adress" ForeColor="Red"></asp:RequiredFieldValidator>
@@ -82,7 +82,7 @@
                     &nbsp;</td>
             </tr>
             <tr>
-                <td class="auto-style5">City</td>
+                <td class="auto-style5">City : </td>
                 <td class="auto-style4">
                     <asp:TextBox ID="ct" runat="server" Width="180px"></asp:TextBox>
                     <asp:RequiredFieldValidator ID="RequiredFieldValidator4" Display="None" runat="server" ControlToValidate="ct" ErrorMessage="Required City" ForeColor="Red"></asp:RequiredFieldValidator>
@@ -93,7 +93,7 @@
                     &nbsp;</td>
             </tr>
             <tr>
-                <td class="auto-style2">ZipCode</td>
+                <td class="auto-style2">ZipCode : </td>
                 <td class="auto-style6">
                     <asp:TextBox ID="zpc" runat="server" Width="180px"></asp:TextBox>
                     <asp:RequiredFieldValidator ID="RequiredFieldValidator5" Display="None" runat="server" ControlToValidate="zpc" ErrorMessage="Required ZipCode" ForeColor="Red"></asp:RequiredFieldValidator>
@@ -104,7 +104,7 @@
                     &nbsp;</td>
             </tr>
             <tr>
-                <td class="auto-style2">Phone</td>
+                <td class="auto-style2">Mobile Phone No. : </td>
                 <td class="auto-style4">
                     <asp:TextBox ID="phn" runat="server" Width="180px"></asp:TextBox>
                     <asp:RequiredFieldValidator ID="RequiredFieldValidator6" Display="None" runat="server" ControlToValidate="phn" ErrorMessage="Required Phone Number" ForeColor="Red"></asp:RequiredFieldValidator>
@@ -114,7 +114,7 @@
                     &nbsp;</td>
             </tr>
             <tr>
-                <td class="auto-style2">Email</td>
+                <td class="auto-style2">Email Address : </td>
                 <td class="auto-style4">
                     <asp:TextBox ID="email" runat="server" Width="180px"></asp:TextBox>
                     <asp:RequiredFieldValidator ID="RequiredFieldValidator7" Display="None" runat="server" ControlToValidate="email" ErrorMessage="Required Email" ForeColor="Red"></asp:RequiredFieldValidator>&nbsp;

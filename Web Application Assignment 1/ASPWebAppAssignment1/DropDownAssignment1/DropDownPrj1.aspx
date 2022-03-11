@@ -41,7 +41,7 @@
         <table class="auto-style2">
             <tr>
                 <td class="auto-style4">
-       Select Any Item <asp:DropDownList ID="DropDownList1" runat="server" Height="33px" Width="78px" AutoPostBack="True" OnSelectedIndexChanged="DropDownList1_SelectedIndexChanged">
+       Select Any Item : <asp:DropDownList ID="DropDownList1" runat="server" Height="33px" Width="78px" AutoPostBack="True" OnSelectedIndexChanged="DropDownList1_SelectedIndexChanged">
         </asp:DropDownList>
                 </td>
                 <td class="auto-style5">
