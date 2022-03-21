@@ -1,0 +1,7 @@
+D:\Zensar_Jan\Day 6\Zensar CodeTest Programs\ZensarCodeTestNumber_1\ZensarCodeTestNumber_1\bin\Debug\ZensarCodeTestNumber_1.exe.config
+D:\Zensar_Jan\Day 6\Zensar CodeTest Programs\ZensarCodeTestNumber_1\ZensarCodeTestNumber_1\bin\Debug\ZensarCodeTestNumber_1.exe
+D:\Zensar_Jan\Day 6\Zensar CodeTest Programs\ZensarCodeTestNumber_1\ZensarCodeTestNumber_1\bin\Debug\ZensarCodeTestNumber_1.pdb
+D:\Zensar_Jan\Day 6\Zensar CodeTest Programs\ZensarCodeTestNumber_1\ZensarCodeTestNumber_1\obj\Debug\ZensarCodeTestNumber_1.csproj.AssemblyReference.cache
+D:\Zensar_Jan\Day 6\Zensar CodeTest Programs\ZensarCodeTestNumber_1\ZensarCodeTestNumber_1\obj\Debug\ZensarCodeTestNumber_1.csproj.CoreCompileInputs.cache
+D:\Zensar_Jan\Day 6\Zensar CodeTest Programs\ZensarCodeTestNumber_1\ZensarCodeTestNumber_1\obj\Debug\ZensarCodeTestNumber_1.exe
+D:\Zensar_Jan\Day 6\Zensar CodeTest Programs\ZensarCodeTestNumber_1\ZensarCodeTestNumber_1\obj\Debug\ZensarCodeTestNumber_1.pdb
